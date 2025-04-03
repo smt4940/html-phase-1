@@ -1,0 +1,4764 @@
+/* Desktop - 35 */
+
+position: relative;
+width: 1440px;
+height: 4024px;
+left: 140px;
+top: 913px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 18753 */
+
+position: absolute;
+width: 1440px;
+height: 980px;
+left: 1439px;
+top: 3505px;
+
+transform: rotate(-180deg);
+
+
+/* Rectangle 18753 */
+
+position: absolute;
+width: 1440px;
+height: 1228px;
+left: 0px;
+top: 88px;
+
+background: linear-gradient(180deg, #EBF3FF -7.33%, #FFFFFF 76.21%);
+
+
+/* Star 2 (Stroke) */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1076px;
+top: 148px;
+
+background: #2C7EF8;
+
+
+/* Frame 427321273 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 457px;
+
+position: absolute;
+width: 1232px;
+height: 40px;
+left: calc(50% - 1232px/2);
+top: 24px;
+
+
+
+/* Frame 1000005336 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 223px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000005337 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 40px;
+
+border: 1px solid #E3E3E3;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 12159 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* light-dark */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group_2794 */
+
+position: absolute;
+left: 4.17%;
+right: 5.89%;
+top: 4.17%;
+bottom: 4.17%;
+
+
+
+/* Path_4213 */
+
+position: absolute;
+left: 29.45%;
+right: 47.56%;
+top: 28.02%;
+bottom: 27.65%;
+
+background: #5C5F61;
+
+
+/* Path_4214 */
+
+position: absolute;
+left: 55.2%;
+right: 25.14%;
+top: 28.59%;
+bottom: 27.44%;
+
+background: #5C5F61;
+
+
+/* Path_4215 */
+
+position: absolute;
+left: 48.99%;
+right: 46.41%;
+top: 4.17%;
+bottom: 76.87%;
+
+background: #5C5F61;
+
+
+/* Path_4216 */
+
+position: absolute;
+left: 18.46%;
+right: 67.03%;
+top: 17.03%;
+bottom: 68.46%;
+
+background: #5C5F61;
+
+
+/* Path_4217 */
+
+position: absolute;
+left: 48.99%;
+right: 46.36%;
+top: 77.16%;
+bottom: 4.17%;
+
+background: #5C5F61;
+
+
+/* Path_4218 */
+
+position: absolute;
+left: 18.46%;
+right: 67.03%;
+top: 68.53%;
+bottom: 17.03%;
+
+background: #5C5F61;
+
+
+/* Path_4219 */
+
+position: absolute;
+left: 4.17%;
+right: 75.72%;
+top: 47.84%;
+bottom: 47.27%;
+
+background: #5C5F61;
+
+
+/* Path_4220 */
+
+position: absolute;
+left: 70.54%;
+right: 19.11%;
+top: 17.39%;
+bottom: 69.68%;
+
+background: #5C5F61;
+
+
+/* Path_4221 */
+
+position: absolute;
+left: 70.54%;
+right: 19.11%;
+top: 71.41%;
+bottom: 15.66%;
+
+background: #5C5F61;
+
+
+/* Path_4222 */
+
+position: absolute;
+left: 80.89%;
+right: 5.89%;
+top: 41.52%;
+bottom: 41.81%;
+
+background: #5C5F61;
+
+
+/* Frame 427321272 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 51px;
+
+width: 167px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321274 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 24px;
+gap: 8px;
+
+width: 167px;
+height: 40px;
+
+background: #2C7EF8;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ورود به اپلیکیشن */
+
+width: 119px;
+height: 10px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 25px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+/* Colors/Grey/ White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000005329 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 72px;
+
+margin: 0 auto;
+width: 516px;
+height: 31px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321271 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 72px;
+
+width: 349px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ارتباط با ما */
+
+width: 68px;
+height: 25px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+text-align: right;
+
+/* Colors/ Grey/GR600 */
+color: #666666;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* درباره ما */
+
+width: 56px;
+height: 25px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+text-align: right;
+
+/* Colors/ Grey/GR600 */
+color: #666666;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* صفحه اصلی */
+
+width: 81px;
+height: 25px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+text-align: right;
+
+color: #2C7EF8;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 33510 */
+
+width: 95px;
+height: 31px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* کوئرا لیست */
+
+position: absolute;
+width: 95px;
+height: 31px;
+left: 421px;
+top: 0px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 31px;
+/* identical to box height */
+
+color: #141414;
+
+
+
+/* سرویس‌ها */
+
+position: absolute;
+width: 431px;
+height: 83px;
+left: 505.5px;
+top: 201.5px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 83px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #141414;
+
+
+
+/* Frame 1000005292 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 395px;
+height: 48px;
+left: calc(50% - 395px/2);
+top: 589px;
+
+
+
+/* Frame 49171 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 40px;
+gap: 8px;
+
+width: 180px;
+height: 48px;
+
+background: #EBF3FE;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* سرویس‌ها */
+
+width: 56px;
+height: 25px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #2C7EF8;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 49161 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 40px;
+gap: 8px;
+
+width: 199px;
+height: 48px;
+
+background: linear-gradient(0deg, #2C7EF8, #2C7EF8), #F88D7D;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* سرویس‌ها */
+
+width: 119px;
+height: 25px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector 74 */
+
+position: absolute;
+width: 302px;
+height: 63px;
+left: 593px;
+top: 369px;
+
+border: 9px solid #2C7EF8;
+transform: rotate(8.28deg);
+
+
+/* Frame 1000005331 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 451px;
+gap: 48px;
+
+position: absolute;
+width: 1440px;
+height: 378px;
+left: calc(50% - 1440px/2 - 1px);
+bottom: 0px;
+
+
+
+/* Frame 427320721 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 61px;
+height: 573px;
+
+transform: rotate(-90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector 23 */
+
+width: 0px;
+height: 223px;
+
+border: 1px solid #AFAFAF;
+transform: rotate(-90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* کوئرا لیست */
+
+width: 95px;
+height: 31px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 31px;
+/* identical to box height */
+
+color: #141414;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector 24 */
+
+width: 0px;
+height: 223px;
+
+border: 1px solid #AFAFAF;
+transform: rotate(-90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 427321282 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px 160px;
+gap: 48px;
+
+width: 1440px;
+height: 167px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320834 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 32px;
+
+margin: 0 auto;
+width: 335px;
+height: 167px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427321281 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 12px;
+
+width: 335px;
+height: 87px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* با ما در ارتباط باش */
+
+width: 120px;
+height: 25px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+text-align: right;
+
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* اگه میخوای اولین نفری باشی که از فیچرهای جدید و تخفیفات با خبر بشی. */
+
+width: 334px;
+height: 50px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+text-align: right;
+
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321284 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 335px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 427320776 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 10px 24px 10px 6px;
+gap: 212px;
+
+width: 335px;
+height: 48px;
+
+border: 1px solid #A1A1A1;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 427320779 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 16px;
+gap: 10px;
+
+margin: 0 auto;
+width: 65px;
+height: 36px;
+
+background: #037FFF;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ارسال */
+
+width: 33px;
+height: 18px;
+
+font-family: 'Yekan Bakh FaNum';
+font-size: 14px;
+line-height: 16px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ایمیل */
+
+margin: 0 auto;
+width: 33px;
+height: 22px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height */
+text-align: right;
+
+color: #BCBCBC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321274 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 329px;
+height: 146px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321272 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 234px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* فکس: ۴۴۴۴۵۵۶۶ - ۰۲۱ */
+
+width: 144px;
+height: 22px;
+
+/* 14/Body2_Regular */
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height */
+text-align: right;
+
+/* Oil/10 */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* fluent:fax-20-filled */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2);
+top: calc(50% - 24px/2);
+
+/* Oil/10
+
+Mine Shaft
+*/
+background: #242424;
+
+
+/* Frame 427321269 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 234px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* تلفن پشتیبانی: ۴۴۴۴۵۵۶۶ - ۰۲۱ */
+
+width: 194px;
+height: 22px;
+
+/* 14/Body2_Regular */
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height */
+text-align: right;
+
+/* Oil/10 */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/bold/call */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* vuesax/bold/call */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* call */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 52.73%;
+top: 8.33%;
+bottom: 28.78%;
+
+/* Oil/10
+
+Mine Shaft
+*/
+background: #242424;
+
+
+/* Vector */
+
+position: absolute;
+left: 40%;
+right: 8.46%;
+top: 58.5%;
+bottom: 8.33%;
+
+/* Oil/10
+
+Mine Shaft
+*/
+background: #242424;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Frame 427321276 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 329px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* آدرس دفتر مرکزی: پونک - خیابان اشرفی اصفهانی - خیابان صبحدل- بن بست شب بو */
+
+width: 289px;
+height: 50px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 176.1%;
+/* or 25px */
+text-align: right;
+
+/* Oil/10 */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/bold/location */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* vuesax/bold/location */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 13%;
+right: 13.04%;
+top: 7.29%;
+bottom: 7.29%;
+
+/* Oil/10
+
+Mine Shaft
+*/
+background: #242424;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Oil/10
+
+Mine Shaft
+*/
+background: #242424;
+opacity: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Frame 427321276 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 160px;
+gap: 426px;
+
+width: 1440px;
+height: 54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 427321273 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 16px 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 404px;
+height: 54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* تمامی حقوق مادی و معنوی این سایت متعلق به کوئرا لیست می‌باشد. */
+
+width: 404px;
+height: 22px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height */
+text-align: right;
+
+color: #666666;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 128 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 452px;
+height: 452px;
+left: 488px;
+top: 600px;
+
+background: linear-gradient(160.99deg, rgba(239, 235, 255, 0) 29.95%, #E0EDFF 78.88%);
+opacity: 0.6;
+transform: rotate(-180deg);
+
+
+/* Ellipse 129 */
+
+position: absolute;
+width: 452px;
+height: 452px;
+left: 1476px;
+top: 764px;
+
+background: linear-gradient(162.19deg, rgba(239, 235, 255, 0) 32.45%, #EBEBFB 79.35%);
+opacity: 0.5;
+transform: rotate(-180deg);
+
+
+/* سرویس‌ها */
+
+position: absolute;
+width: 687.2px;
+height: 115.2px;
+left: 377px;
+top: 285px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 115px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #141414;
+
+
+
+/* زمان در یک روز برای ما محدود است، اما مهمترین کار این است که چگونه از آن استفاده می‌کنیم. با اپلیکیشن کوییرا لیست، زمان خود را با هدف و برنامه‌ریزی موثر سپری کنید." */
+
+position: absolute;
+width: 827px;
+height: 62px;
+left: calc(50% - 827px/2 + 0.5px);
+top: 487px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #141414;
+
+
+
+/* Star 2 (Stroke) */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 192px;
+top: 423px;
+
+background: #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.6%;
+right: 26.74%;
+top: 77%;
+bottom: 22.2%;
+
+background: #F5F5F5;
+
+
+/* Ellipse 130 */
+
+position: absolute;
+width: 452px;
+height: 452px;
+left: 1476px;
+top: 3626px;
+
+background: linear-gradient(162.19deg, rgba(239, 235, 255, 0) 32.45%, #EBEBFB 79.35%);
+opacity: 0.6;
+transform: rotate(-180deg);
+
+
+/* Ellipse 131 */
+
+position: absolute;
+width: 452px;
+height: 452px;
+left: 300px;
+top: 3012px;
+
+background: linear-gradient(162.19deg, rgba(239, 235, 255, 0) 32.45%, #EBEBFB 79.35%);
+opacity: 0.3;
+transform: rotate(-180deg);
+
+
+/* Ellipse 132 */
+
+position: absolute;
+width: 452px;
+height: 452px;
+left: 1665px;
+top: 1890px;
+
+background: linear-gradient(162.19deg, rgba(239, 235, 255, 0) 32.45%, #EBEBFB 79.35%);
+opacity: 0.2;
+transform: rotate(-180deg);
+
+
+/* Ellipse 133 */
+
+position: absolute;
+width: 452px;
+height: 452px;
+left: 320px;
+top: 2228px;
+
+background: linear-gradient(162.19deg, rgba(239, 235, 255, 0) 32.45%, #EBEBFB 79.35%);
+opacity: 0.3;
+transform: rotate(-180deg);
+
+
+/* Frame 1000005330 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 124px;
+
+position: absolute;
+width: 1120px;
+height: 2809px;
+left: 160px;
+top: 717px;
+
+
+
+/* image 39129 */
+
+width: 1120px;
+height: 672px;
+
+background: url(image.png);
+box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.05);
+border-radius: 12px 12px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000005335 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+width: 1120px;
+height: 450px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000005333 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 540px;
+height: 144px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ویژگی‌های اپلیکیشن کوئرالیست */
+
+width: 508px;
+height: 72px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 72px;
+/* identical to box height, or 180% */
+text-align: right;
+
+/* Light mode/neutral/neutral-11-light */
+color: #191C1E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ما توی تیم کوئرا لیست بر اساس بازخوردهای شما و جدیدترین ترندهای بازار همواره در تلاشیم تا بهترین تجربه کاربری رو براتون به ارمغان بیاریم. */
+
+width: 540px;
+height: 60px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+text-align: center;
+
+/* Light mode/neutral/neutral-9-light */
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000005334 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 1120px;
+height: 266px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321283 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 32px 40px;
+gap: 24px;
+
+width: 262px;
+height: 266px;
+
+/* White */
+background: #FFFFFF;
+/* Neutral/Neutral - #200 */
+border: 1px solid #F5F6F8;
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427321296 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 220px;
+height: 202px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427321293 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 48px;
+height: 48px;
+
+background: #F5FBFF;
+border-radius: 80px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/user-tag */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/user-tag */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* user-tag */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.38%;
+bottom: 8.34%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Group */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 22.25%;
+bottom: 34.75%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 40.29%;
+right: 40.29%;
+top: 22.25%;
+bottom: 58.33%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 51.67%;
+bottom: 34.75%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+opacity: 0;
+
+
+/* Frame 427321303 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 220px;
+height: 138px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* پشتیبانی آنلاین */
+
+width: 129px;
+height: 36px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #070D31;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* اگه از سردرگمی و بی برنامگی خسته شدی این اپلیکیشن مخصوص خودته! */
+
+width: 196px;
+height: 90px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+/* or 214% */
+text-align: center;
+
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321281 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 32px 40px;
+gap: 24px;
+
+width: 262px;
+height: 266px;
+
+/* White */
+background: #FFFFFF;
+/* Neutral/Neutral - #200 */
+border: 1px solid #F5F6F8;
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321296 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 220px;
+height: 202px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427321293 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 48px;
+height: 48px;
+
+background: #F5FBFF;
+border-radius: 80px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/location-tick */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/location-tick */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* location-tick */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.07%;
+right: 14.07%;
+top: 8.33%;
+bottom: 8.35%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.54%;
+right: 38.54%;
+top: 37.5%;
+bottom: 45.83%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Frame 427321303 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 220px;
+height: 138px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* دسترسی آسان */
+
+width: 121px;
+height: 36px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #070D31;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* اگه از سردرگمی و بی برنامگی خسته شدی این اپلیکیشن مخصوص خودته! */
+
+width: 196px;
+height: 90px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+/* or 214% */
+text-align: center;
+
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321280 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 32px 40px;
+gap: 24px;
+
+width: 262px;
+height: 266px;
+
+/* White */
+background: #FFFFFF;
+/* Neutral/Neutral - #200 */
+border: 1px solid #F5F6F8;
+box-shadow: 0px 4px 63px rgba(0, 0, 0, 0.03);
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 427321296 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 219px;
+height: 202px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427321293 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 48px;
+height: 48px;
+
+background: #F5FBFF;
+border-radius: 80px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/category */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/category */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* category */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 58.33%;
+top: 8.33%;
+bottom: 58.33%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 58.33%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 8.33%;
+top: 58.33%;
+bottom: 8.33%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 58.33%;
+top: 58.33%;
+bottom: 8.33%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+opacity: 0;
+
+
+/* Frame 427321302 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 219px;
+height: 138px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* قابلیت دسته‌بندی کارها */
+
+width: 190px;
+height: 36px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #070D31;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* اگه از سردرگمی و بی برنامگی خسته شدی این اپلیکیشن مخصوص خودته! */
+
+width: 196px;
+height: 90px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+/* or 214% */
+text-align: center;
+
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321285 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 32px 40px;
+gap: 24px;
+
+width: 262px;
+height: 266px;
+
+/* White */
+background: #FFFFFF;
+/* Neutral/Neutral - #200 */
+border: 1px solid #F5F6F8;
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 427321295 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 219px;
+height: 202px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427321293 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 48px;
+height: 48px;
+
+background: #F5FBFF;
+border-radius: 80px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/brush */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/brush */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* brush */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.21%;
+right: 8.46%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.34%;
+right: 8.47%;
+top: 8.33%;
+bottom: 39.58%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.08%;
+right: 46.75%;
+top: 46.82%;
+bottom: 25%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.13%;
+right: 34.08%;
+top: 34.12%;
+bottom: 50.08%;
+
+border: 1.5px solid #2C7EF8;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+opacity: 0;
+
+
+/* Frame 427321302 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 219px;
+height: 138px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* رابط کاربری جذاب */
+
+width: 142px;
+height: 36px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #070D31;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* اگه از سردرگمی و بی برنامگی خسته شدی این اپلیکیشن مخصوص خودته! */
+
+width: 196px;
+height: 90px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+/* or 214% */
+text-align: center;
+
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321294 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+width: 1120px;
+height: 427px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 47490 */
+
+margin: 0 auto;
+width: 538px;
+height: 427px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mobile_clay_mockup */
+
+position: absolute;
+width: 538px;
+height: 370px;
+left: 0px;
+top: 0px;
+
+
+
+/* Frame_mobile */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(118.11deg, #E5E7E8 22.44%, #E9EBF1 102.49%);
+border-radius: 25.92px;
+
+
+/* mobile_bar_black */
+
+position: absolute;
+visibility: hidden;
+left: 14.33%;
+right: -45.87%;
+top: 4.67%;
+bottom: 91.28%;
+
+
+
+/* Time */
+
+position: absolute;
+left: 14.33%;
+right: 55.35%;
+top: 4.67%;
+bottom: 91.28%;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 600;
+font-size: 8.64297px;
+line-height: 10px;
+text-align: center;
+letter-spacing: -0.172859px;
+
+/* black */
+color: #000000;
+
+
+
+/* Battery */
+
+position: absolute;
+left: 136.45%;
+right: -45.87%;
+top: 5.19%;
+bottom: 93.05%;
+
+
+
+/* Border */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 136.45%;
+right: -44.97%;
+top: 5.19%;
+bottom: 93.05%;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* black */
+border: 0.576198px solid #000000;
+border-radius: 1.53653px;
+
+
+/* Cap */
+
+position: absolute;
+left: 145.35%;
+right: -45.87%;
+top: 5.76%;
+bottom: 93.62%;
+
+/* black */
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+left: 137.22%;
+right: -44.19%;
+top: 5.5%;
+bottom: 93.36%;
+
+/* black */
+background: #000000;
+border-radius: 0.768264px;
+
+
+/* Wifi */
+
+position: absolute;
+left: 128.57%;
+right: -34.51%;
+top: 5.19%;
+bottom: 93.1%;
+
+/* black */
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 128.57%;
+right: -34.51%;
+top: 5.19%;
+bottom: 94.07%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 129.61%;
+right: -33.48%;
+top: 5.78%;
+bottom: 93.65%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 130.64%;
+right: -32.44%;
+top: 6.37%;
+bottom: 93.1%;
+
+background: #000000;
+
+
+/* Cellular Connection */
+
+position: absolute;
+left: 120.05%;
+right: -26.64%;
+top: 5.24%;
+bottom: 93.1%;
+
+/* black */
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 120.05%;
+right: -21.22%;
+top: 6.28%;
+bottom: 93.1%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 121.86%;
+right: -23.02%;
+top: 5.97%;
+bottom: 93.1%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 123.67%;
+right: -24.83%;
+top: 5.6%;
+bottom: 93.1%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 125.47%;
+right: -26.64%;
+top: 5.24%;
+bottom: 93.1%;
+
+background: #000000;
+
+
+/* mobile_bar_white */
+
+position: absolute;
+visibility: hidden;
+left: 14.33%;
+right: -45.87%;
+top: 4.67%;
+bottom: 91.28%;
+
+
+
+/* Time */
+
+position: absolute;
+left: 14.33%;
+right: 55.35%;
+top: 4.67%;
+bottom: 91.28%;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 600;
+font-size: 8.64297px;
+line-height: 10px;
+text-align: center;
+letter-spacing: -0.172859px;
+
+color: #FFFFFF;
+
+
+
+/* Battery */
+
+position: absolute;
+left: 136.45%;
+right: -45.87%;
+top: 5.19%;
+bottom: 93.05%;
+
+
+
+/* Border */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 136.45%;
+right: -44.97%;
+top: 5.19%;
+bottom: 93.05%;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+border: 0.576198px solid #FFFFFF;
+border-radius: 1.53653px;
+
+
+/* Cap */
+
+position: absolute;
+left: 145.35%;
+right: -45.87%;
+top: 5.76%;
+bottom: 93.62%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+left: 137.22%;
+right: -44.19%;
+top: 5.5%;
+bottom: 93.36%;
+
+background: #FFFFFF;
+border-radius: 0.768264px;
+
+
+/* Wifi */
+
+position: absolute;
+left: 128.57%;
+right: -34.51%;
+top: 5.19%;
+bottom: 93.1%;
+
+background: #FFFFFF;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 128.57%;
+right: -34.51%;
+top: 5.19%;
+bottom: 94.07%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 129.61%;
+right: -33.48%;
+top: 5.78%;
+bottom: 93.65%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 130.64%;
+right: -32.44%;
+top: 6.37%;
+bottom: 93.1%;
+
+background: #000000;
+
+
+/* Cellular Connection */
+
+position: absolute;
+left: 120.05%;
+right: -26.64%;
+top: 5.24%;
+bottom: 93.1%;
+
+background: #FFFFFF;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 120.05%;
+right: -21.22%;
+top: 6.28%;
+bottom: 93.1%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 121.86%;
+right: -23.02%;
+top: 5.97%;
+bottom: 93.1%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 123.67%;
+right: -24.83%;
+top: 5.6%;
+bottom: 93.1%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 125.47%;
+right: -26.64%;
+top: 5.24%;
+bottom: 93.1%;
+
+background: #000000;
+
+
+/* image 39129 */
+
+position: absolute;
+width: 519px;
+left: calc(50% - 519px/2 + 0.5px);
+top: 2.7%;
+bottom: 2.7%;
+
+background: url(image.png);
+box-shadow: 0px 0px 11.1214px rgba(0, 0, 0, 0.06);
+border-radius: 25px;
+
+
+/* Mobile_clay_mockup */
+
+position: absolute;
+width: 189.7px;
+height: 394px;
+left: calc(50% - 189.7px/2 - 177px);
+top: calc(50% - 394px/2 + 16.5px);
+
+
+
+/* Frame_mobile */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(118.11deg, #E5E7E8 22.44%, #E9EBF1 102.49%);
+border-radius: 21.0133px;
+
+
+/* Put screen in here */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 3.93%;
+right: 3.93%;
+top: 1.9%;
+bottom: 1.9%;
+
+background: #FDFEFE;
+border: 0.72963px solid rgba(107, 113, 133, 0.3);
+border-radius: 16.8164px;
+
+
+/* your_screen */
+
+position: absolute;
+width: 175.17px;
+height: 391.39px;
+left: 0px;
+top: 0px;
+
+background: url(Home);
+
+
+/* mobile_bar_black */
+
+position: absolute;
+visibility: hidden;
+left: 11.21%;
+right: -14.15%;
+top: 4.38%;
+bottom: 91.81%;
+
+
+
+/* Time */
+
+position: absolute;
+left: 11.21%;
+right: 65.06%;
+top: 4.38%;
+bottom: 91.81%;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 600;
+font-size: 8.64297px;
+line-height: 10px;
+text-align: center;
+letter-spacing: -0.172859px;
+
+/* black */
+color: #000000;
+
+
+
+/* Battery */
+
+position: absolute;
+left: 106.78%;
+right: -14.15%;
+top: 4.87%;
+bottom: 93.47%;
+
+
+
+/* Border */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 106.78%;
+right: -13.45%;
+top: 4.87%;
+bottom: 93.47%;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* black */
+border: 0.576198px solid #000000;
+border-radius: 1.53653px;
+
+
+/* Cap */
+
+position: absolute;
+left: 113.75%;
+right: -14.15%;
+top: 5.41%;
+bottom: 94.01%;
+
+/* black */
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+left: 107.39%;
+right: -12.84%;
+top: 5.16%;
+bottom: 93.76%;
+
+/* black */
+background: #000000;
+border-radius: 0.768264px;
+
+
+/* Wifi */
+
+position: absolute;
+left: 100.62%;
+right: -5.27%;
+top: 4.87%;
+bottom: 93.52%;
+
+/* black */
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 100.62%;
+right: -5.27%;
+top: 4.87%;
+bottom: 94.43%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 101.43%;
+right: -4.46%;
+top: 5.43%;
+bottom: 94.04%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 102.24%;
+right: -3.65%;
+top: 5.98%;
+bottom: 93.52%;
+
+background: #000000;
+
+
+/* Cellular Connection */
+
+position: absolute;
+left: 93.95%;
+right: 0.9%;
+top: 4.92%;
+bottom: 93.52%;
+
+/* black */
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 93.95%;
+right: 5.14%;
+top: 5.89%;
+bottom: 93.52%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 95.37%;
+right: 3.73%;
+top: 5.6%;
+bottom: 93.52%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 96.78%;
+right: 2.31%;
+top: 5.26%;
+bottom: 93.52%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 98.19%;
+right: 0.9%;
+top: 4.92%;
+bottom: 93.52%;
+
+background: #000000;
+
+
+/* mobile_bar_white */
+
+position: absolute;
+visibility: hidden;
+left: 11.21%;
+right: -14.15%;
+top: 4.38%;
+bottom: 91.81%;
+
+
+
+/* Time */
+
+position: absolute;
+left: 11.21%;
+right: 65.06%;
+top: 4.38%;
+bottom: 91.81%;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 600;
+font-size: 8.64297px;
+line-height: 10px;
+text-align: center;
+letter-spacing: -0.172859px;
+
+color: #FFFFFF;
+
+
+
+/* Battery */
+
+position: absolute;
+left: 106.78%;
+right: -14.15%;
+top: 4.87%;
+bottom: 93.47%;
+
+
+
+/* Border */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 106.78%;
+right: -13.45%;
+top: 4.87%;
+bottom: 93.47%;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+border: 0.576198px solid #FFFFFF;
+border-radius: 1.53653px;
+
+
+/* Cap */
+
+position: absolute;
+left: 113.75%;
+right: -14.15%;
+top: 5.41%;
+bottom: 94.01%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+left: 107.39%;
+right: -12.84%;
+top: 5.16%;
+bottom: 93.76%;
+
+background: #FFFFFF;
+border-radius: 0.768264px;
+
+
+/* Wifi */
+
+position: absolute;
+left: 100.62%;
+right: -5.27%;
+top: 4.87%;
+bottom: 93.52%;
+
+background: #FFFFFF;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 100.62%;
+right: -5.27%;
+top: 4.87%;
+bottom: 94.43%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 101.43%;
+right: -4.46%;
+top: 5.43%;
+bottom: 94.04%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 102.24%;
+right: -3.65%;
+top: 5.98%;
+bottom: 93.52%;
+
+background: #000000;
+
+
+/* Cellular Connection */
+
+position: absolute;
+left: 93.95%;
+right: 0.9%;
+top: 4.92%;
+bottom: 93.52%;
+
+background: #FFFFFF;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 93.95%;
+right: 5.14%;
+top: 5.89%;
+bottom: 93.52%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 95.37%;
+right: 3.73%;
+top: 5.6%;
+bottom: 93.52%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 96.78%;
+right: 2.31%;
+top: 5.26%;
+bottom: 93.52%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 98.19%;
+right: 0.9%;
+top: 4.92%;
+bottom: 93.52%;
+
+background: #000000;
+
+
+/* Frame 427321301 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 40px;
+
+margin: 0 auto;
+width: 540px;
+height: 390px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000005298 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 16px;
+
+width: 540px;
+height: 298px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000005308 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+
+width: 540px;
+height: 102px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* اپلیکیشن اندروید و IOS */
+
+width: 540px;
+height: 30px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+text-align: right;
+
+/* Light mode/neutral/neutral-9-light */
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* دانلود اپلیکیشن */
+
+width: 267px;
+height: 72px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 72px;
+/* identical to box height, or 180% */
+text-align: right;
+
+/* Light mode/neutral/neutral-11-light */
+color: #191C1E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* کاربران اندروید می‌توانند اپلیکیشن کوئرالیست را از استورهای معتبر اندروید دانلود نمایند. همچنین کاربران سیستم عامل اپل علاوه بر دانلود نرم‌افزار از اپل‌استور می‌توانند از نسخه مبتنی بر وب آن استفاده نمایند. همچنین کاربران سیستم عامل اپل علاوه بر دانلود نرم‌افزار از اپل‌استور می‌توانند از نسخه مبتنی بر وب آن استفاده نمایند. */
+
+width: 472px;
+height: 180px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+text-align: right;
+
+/* Light mode/neutral/neutral-9-light */
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321260 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 198px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321258 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 16px;
+gap: 10px;
+
+width: 198px;
+height: 52px;
+
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/arrow-right */
+
+width: 24px;
+height: 24px;
+
+transform: rotate(180deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 24px;
+top: 24px;
+
+transform: rotate(180deg);
+
+
+/* arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 24px;
+top: 24px;
+
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 39.88%;
+right: 34.83%;
+top: 75.29%;
+bottom: -25.88%;
+
+border: 2.5px solid #2C7EF8;
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 85.42%;
+right: -55.54%;
+top: 50%;
+bottom: 50%;
+
+border: 2.5px solid #2C7EF8;
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+opacity: 0;
+
+
+/* ورود به اپلیکیشن */
+
+width: 132px;
+height: 28px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height */
+text-align: right;
+
+color: #2C7EF8;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000005336 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 48px;
+
+width: 1120px;
+height: 888px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 1000005333 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 540px;
+height: 148px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* نظرات کاربران */
+
+width: 219px;
+height: 72px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 72px;
+/* identical to box height, or 180% */
+text-align: right;
+
+/* Light mode/neutral/neutral-11-light */
+color: #191C1E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* بیش از یک دهه است که کوئرا لیست به مردم در سراسر جهان کمک می‌کند تا سازماندهی شوند و به اهداف خود برسند. */
+
+width: 540px;
+height: 60px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+text-align: center;
+
+/* Light mode/neutral/neutral-9-light */
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000005334 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 25.51px;
+
+width: 1120px;
+height: 604px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000005325 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 357px;
+height: 604px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000005322 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 32px;
+gap: 24px;
+
+width: 357px;
+height: 340px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 63px rgba(0, 0, 0, 0.04);
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427321040 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 17.01px;
+
+width: 293px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 427320818 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 4.25px;
+
+width: 155px;
+height: 53.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 59px;
+height: 27px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #141414;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 155px;
+height: 22px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #5C5C5C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 135 */
+
+width: 68px;
+height: 68px;
+
+background: url(), url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* تجربه من با کوئرا لیست زندگی من رو تغییر داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به ما این امکان رو می‌دهد که باهوش‌تر، سریع‌تر و سازمان دهی شده تر زندگی کنیم و هم چینین همه چیز به گونه‌ای ساده تنظیم شده و میتونیم از یکپارچگی اطلاعات و دیتاها لذت ببریم. */
+
+width: 293px;
+height: 200px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000005321 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 24px 32px;
+gap: 24px;
+
+width: 357px;
+height: 240px;
+
+background: #FFFFFF;
+/* Neutral/Neutral - #200 */
+border: 1px solid #F5F6F8;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321040 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 17.01px;
+
+width: 293px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 427320818 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 4.25px;
+
+width: 155px;
+height: 53.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 59px;
+height: 27px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #141414;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 155px;
+height: 22px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #5C5C5C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 136 */
+
+width: 68px;
+height: 68px;
+
+background: url(.png), url();
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* تجربه من با کوئرا لیست زندگی من رو تغییر داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به ما این امکان رو می‌دهد که سریع تر باشیم */
+
+width: 293px;
+height: 100px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000005323 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 357px;
+height: 604px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000005320 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 24px 32px;
+gap: 24px;
+
+width: 357px;
+height: 240px;
+
+background: #FFFFFF;
+/* Neutral/Neutral - #200 */
+border: 1px solid #F5F6F8;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427321040 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 17.01px;
+
+width: 293px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 427320818 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 4.25px;
+
+width: 155px;
+height: 53.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 59px;
+height: 27px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #141414;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 155px;
+height: 22px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #5C5C5C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 136 */
+
+width: 68px;
+height: 68px;
+
+background: url(), url();
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* تجربه من با کوئرا لیست زندگی من رو تغییر داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به ما این امکان رو می‌دهد که سریع تر باشیم */
+
+width: 293px;
+height: 100px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000005319 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 32px;
+gap: 24px;
+
+width: 357px;
+height: 340px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 63px rgba(0, 0, 0, 0.04);
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321040 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 17.01px;
+
+width: 293px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 427320818 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 4.25px;
+
+width: 155px;
+height: 53.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 59px;
+height: 27px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #141414;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 155px;
+height: 22px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #5C5C5C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 135 */
+
+width: 68px;
+height: 68px;
+
+background: url(), url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* تجربه من با کوئرا لیست زندگی من رو تغییر داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به ما این امکان رو می‌دهد که باهوش‌تر، سریع‌تر و سازمان دهی شده تر زندگی کنیم و هم چینین همه چیز به گونه‌ای ساده تنظیم شده و میتونیم از یکپارچگی اطلاعات و دیتاها لذت ببریم. */
+
+width: 293px;
+height: 200px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000005324 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 357px;
+height: 604px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1000005319 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 32px;
+gap: 24px;
+
+width: 357px;
+height: 340px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 63px rgba(0, 0, 0, 0.04);
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427321040 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 17.01px;
+
+width: 293px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 427320817 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 4.25px;
+
+width: 155px;
+height: 53.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 59px;
+height: 27px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #141414;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 155px;
+height: 22px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #5C5C5C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 135 */
+
+width: 68px;
+height: 68px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* تجربه من با کوئرا لیست زندگی من رو تغییر داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به ما این امکان رو می‌دهد که باهوش‌تر، سریع‌تر و سازمان دهی شده تر زندگی کنیم و هم چینین همه چیز به گونه‌ای ساده تنظیم شده و میتونیم از یکپارچگی اطلاعات و دیتاها لذت ببریم. */
+
+width: 293px;
+height: 200px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000005320 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 24px 32px;
+gap: 24px;
+
+width: 357px;
+height: 240px;
+
+background: #FFFFFF;
+/* Neutral/Neutral - #200 */
+border: 1px solid #F5F6F8;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427321040 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 17.01px;
+
+width: 293px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 427320818 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 4.25px;
+
+width: 155px;
+height: 53.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 59px;
+height: 27px;
+
+font-family: 'Abar Mid FaNum';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #141414;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 155px;
+height: 22px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #5C5C5C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 136 */
+
+width: 68px;
+height: 68px;
+
+background: url();
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* تجربه من با کوئرا لیست زندگی من رو تغییر داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به ما این امکان رو می‌دهد که سریع تر باشیم */
+
+width: 293px;
+height: 100px;
+
+font-family: 'Yekan Bakh FaNum';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #444749;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000005305 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 104px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* square Buttons */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 40px;
+height: 40px;
+
+background: #FFFFFF;
+border: 1px solid #E3E6E8;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 12159 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* arrow-left-outline */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector 141 (Stroke) */
+
+position: absolute;
+left: 33.34%;
+right: 33.31%;
+top: 20.44%;
+bottom: 19.11%;
+
+background: #000000;
+
+
+/* square Buttons */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 40px;
+height: 40px;
+
+background: #FFFFFF;
+border: 1px solid #E3E6E8;
+border-radius: 6px;
+transform: rotate(-180deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 12159 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 20px;
+height: 20px;
+
+transform: rotate(-180deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* arrow-left-outline */
+
+width: 24px;
+height: 24px;
+
+transform: rotate(-180deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector 141 (Stroke) */
+
+position: absolute;
+left: 66.66%;
+right: -0.01%;
+top: 79.56%;
+bottom: -40.01%;
+
+background: #000000;
+transform: rotate(-180deg);
