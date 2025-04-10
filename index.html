@@ -1,29 +1,160 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="./style.css" />
-    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-    <style type="text/tailwindcss">
-      @theme {
+<html lang="fa-IR" dir="rtl">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Homepage</title>
+  <link rel="stylesheet" href="./style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <style type="text/tailwindcss">
+    @theme {
         --color-primary: #2c7ef8;
         --color-primary-hover-light: #075CD9;
         --color-on-primary-light: #FFFFFF;
+        --color-background-light: #FFFFFF;
+        --color-on-background-light: #191C1E;
+        --color-success:#90F677;
+        --color-errors:#E63946;
+        --color-sun-outline:#E3E3E3;
+        --color-secondary:#EBF3FE;
+        /* <!-- neutral color in tailwind has been used --> 
+        Dark Color Palete*/
+        --color-primary-dark:#3A86F8;
+        --color-primary-hover-dark:#6BA4FA;
+        --color-on-primary-dark:#FFFFFF;
+        --color-background-dark:#040810;
+        --color-on-background-dark:#E6E9EF;
+        --color-surface-dark:#E6E9EF;
+
     }
       @font-face {
         font-family: "Markazi";
         src: url("./assets/fonts/Markazi_Text/MarkaziText-VariableFont_wght.ttf");
-        font-weight: 125 950;
+        font-weight: 100 900;
+        font-stretch: 75% 125%;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: "Vazirmatn";
+        src: url("./assets/fonts/Vazirmatn/Vazirmatn-VariableFont_wght.ttf");
+        font-weight: 100 900;
         font-stretch: 75% 125%;
         font-style: normal;
       }
     </style>
-  </head>
-  <body>
-    <h1 class="mx-auto text-amber-200 bg-primary text-center p-4 border-2 font-[Markazi] font-extrabold">
-      سلام کچل
+</head>
+
+<body class="w-screen overflow-x-hidden m-0 p-0">
+  <header class="flex justify-between items-center p-6">
+
+    <nav id="right-panel" class="flex">
+      <p class="font-[Vazirmatn] text-xl font-semibold ml-8">کوئرا لیست</p>
+      <ul class="font-medium text-base flex justify-around text-neutral-600">
+        <li class="px-8 text-primary">صفحه اصلی</li>
+        <li class="px-8"><a href="./aboutus.html">درباره ما</a></li>
+        <li class="px-8"><a href="./contactus.html">ارتباط با ما</a></li>
+      </ul>
+
+    </nav>
+    <div id="left-panel" class="flex gap-4">
+      <button
+        class="mr-auto bg-primary h-10 rounded-md px-6 py-2 font-[Vazirmatn] text-background-light font-semibold text-base hover:bg-primary-hover-light">ورود
+        به اپلیکیشن</button>
+      <div class="w-10 h-10 ml-4 rounded-md border border-sun-outline flex hover:bg-slate-100"><img
+          src="./assets/images/sun-image.svg" alt="sun image for light theme" class="m-auto">
+      </div>
+    </div>
+  </header>
+  <main class="bg-[url(/assets/images/background.svg)] h-[1228px]">
+    <h2 class="font-[Markazi] font-normal text-5xl italic text-center text-neutral-800 pt-26 z-10">تمرکز رو وارد زندگیت
+      کن</h2>
+    <img src="./assets/images/star.svg" alt="star" class="absolute top-40 left-10/13 z-7">
+    <img src="./assets/images/star.svg" alt="star" class="absolute top-5/7 left-25 z-7">
+    <img src="./assets/images/vector74.svg" alt="vector74" class="absolute top-6/10 left-4/11  z-9">
+    <h1 class="font-[Markazi] font-black text-[5rem] text-center pt-6 z-8 leading-none sticky">به سمت اهدافت اوج بگیر
     </h1>
-  </body>
+    <h3 class="w-3/5 text-center font-[Vazirmatn] font-normal mx-auto mt-24 text-xl z-5 sticky">زمان در یک روز برای ما
+      محدود است، اما مهمترین کار این است که چگونه از آن استفاده می‌کنیم. با اپلیکیشن کوییرا لیست، زمان خود را با هدف و
+      برنامه‌ریزی موثر سپری کنید.</h3>
+    <img src="./assets/images/eclipse128.svg" alt="eclispe128"
+      class="absolute top-1/4 left-[-50px] z-3 overflow-hidden">
+    <img src="./assets/images/eclipse129.svg" alt="eclispe129" class="absolute top-1/2 left-2/3 z-2 overflow-hidden">
+    <img src="./assets/images/eclipse132.svg" alt="eclispe132"
+      class="absolute top-[1400px] left-27/32 z-2 overflow-hidden">
+    <img src="./assets/images/eclipse133.svg" alt="eclispe133" class="absolute top-[1680px] left-0 z-2 overflow-hidden">
+    <section id="two buttons" class="flex mx-auto my-10 w-80 justify-around gap-2">
+      <button
+        class="bg-primary h-10 rounded-md px-6 py-2 font-[Vazirmatn] text-background-light font-semibold text-base hover:bg-primary-hover-light">ورود
+        به اپلیکیشن</button>
+      <button
+        class="bg-secondary h-10 rounded-md px-10 py-2 font-[Vazirmatn] text-primary font-semibold text-base hover:bg-neutral-200">درباره
+        ما</button>
+    </section>
+    <section class="flex flex-col gap-30 mt-20 content-center">
+      <div class="w-[1110px] h-[672px] mx-auto rounded-t-xl shadow-sm overflow-hidden">
+        <img src="./assets/images/image.png" alt="main picture"
+          class="object-cover object-top relative mx-auto top-[-110px]  w-[1480px] h-[930px]">
+      </div>
+
+      <div class="w-[1220px] h-[450px] mx-auto">
+        <h2 class="w-4/5 mx-auto font-[Markazi] font-normal text-5xl text-neutral-800 mb-8 text-center">ویژگی های
+          اپلیکیشن کوئرالیست</h2>
+        <h4 class="w-17/40 mx-auto font-[Vazirmatn] text-lg font-light text-neutral-800 text-center">ما توی تیم کوئرا
+          لیست بر اساس بازخوردهای
+          شما و جدیدترین ترندهای بازار
+          همواره در تلاشیم تا بهترین تجربه کاربری رو براتون به ارمغان بیاریم.</h4>
+        <div id="box4" class="grid grid-cols-4 grid-rows-1 w-9/10 mx-auto z-5 sticky mt-16 text-center items-center">
+          <div class="w-9/10 border border-neutral-200 rounded-3xl px-10 py-8 bg-white relative z-5">
+            <img src="./assets/images/brush-tag.svg" alt="brush image" class="mx-auto">
+            <h6 class="font-[Markazi] font-bold text-xl my-2">رابط کاربری جذاب</h6>
+            <p class="font-[Vazirmatn] font-normal text-sm text-center leading-8">اگه از سردرگمی و بی برنامگی خسته شدی
+              این اپلیکیشن مخصوص خودته!</p>
+          </div>
+          <div class="w-9/10 border border-neutral-200 rounded-3xl px-10 py-8 bg-white">
+            <img src="./assets/images/category-tag.svg" alt="category image" class="mx-auto">
+            <h6 class="font-[Markazi] font-bold text-xl my-2">قابلیت دسته بندی کارها</h6>
+            <p class="font-[Vazirmatn] font-normal text-sm text-center leading-8">اگه از سردرگمی و بی برنامگی خسته شدی
+              این اپلیکیشن مخصوص خودته!</p>
+          </div>
+          <div class="w-9/10 border border-neutral-200 rounded-3xl px-10 py-8 bg-white">
+            <img src="./assets/images/loc-tag.svg" alt="location image" class="mx-auto">
+            <h6 class="font-[Markazi] font-bold text-xl my-2">دسترسی آسان</h6>
+            <p class="font-[Vazirmatn] font-normal text-sm text-center leading-8">اگه از سردرگمی و بی برنامگی خسته شدی
+              این اپلیکیشن مخصوص خودته!</p>
+          </div>
+          <div class="w-9/10 border border-neutral-200 rounded-3xl px-10 py-8 bg-white">
+            <img src="./assets/images/user-tag.svg" alt="user image" class="mx-auto">
+            <h6 class="font-[Markazi] font-bold text-xl my-2">پشتیبانی آنلاین</h6>
+            <p class="font-[Vazirmatn] font-normal text-sm text-center leading-8">اگه از سردرگمی و بی برنامگی خسته شدی
+              این اپلیکیشن مخصوص خودته!</p>
+          </div>
+        </div>
+      </div>
+      <div class="w-[1120px] mx-auto">
+        <div id="heading-anecdote" class="mb-4">
+          <p class="font-[Vazirmatn] font-normal text-lg mb-2">اپلیکیشن اندروید و iOS</p>
+          <h4 class="font-[Markazi] font-bold text-5xl mb-6 pb-2">دانلود اپلیکیشن</h4>
+        </div>
+        <div id="anecdotes" class="w-3/7 h-auto">
+          <p id="link" class="font-[Vazirmatn] font-normal text-lg text-justify tracking-wide">کاربران اندروید می‌توانند
+            اپلیکیشن
+            کوئرالیست را از استورهای معتبر اندروید دانلود نمایند. همچنین کاربران سیستم عامل اپل علاوه بر دانلود
+            نرم‌افزار از اپل‌استور می‌توانند از نسخه مبتنی بر وب آن استفاده نمایند.
+            <br class="mb-1">همچنین کاربران سیستم عامل اپل علاوه بر دانلود نرم‌افزار از اپل‌استور می‌توانند از نسخه
+            مبتنی بر وب آن استفاده نمایند.
+          </p>
+          <div class=" my-6 flex">
+            <a href="#link" class="inline font-[Vazirmatn] font-bold text-lg text-primary">ورود به اپلیکیشن</a>
+            <img src="./assets/images/arrow.svg" alt="blue arrow" class="mx-2">
+          </div>
+        </div>
+        <div id="images">
+          <div><img src="./assets/images/image.png" alt="portofolio image" class=""></div>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+
 </html>

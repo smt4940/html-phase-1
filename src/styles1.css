@@ -18,6 +18,12 @@ left: 1439px;
 top: 3505px;
 
 transform: rotate(-180deg);
+width: 40;
+height: 40;
+border-radius: 6px;
+gap: 8px;
+border-width: 1px;
+
 
 
 /* Rectangle 18753 */
