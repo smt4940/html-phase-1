@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fa-IR" dir="rtl">
+<html lang="fa-IR" dir="rtl" class="bg-slate-50">
 
 <head>
   <meta charset="UTF-8" />
@@ -10,10 +10,13 @@
   <style type="text/tailwindcss">
     @theme {
         --color-primary: #2c7ef8;
+        --color-linear-from:#E5E7E8;
+        --color-linear-to:#E9EBF1;
         --color-primary-hover-light: #075CD9;
         --color-on-primary-light: #FFFFFF;
         --color-background-light: #FFFFFF;
         --color-on-background-light: #191C1E;
+        --color-border:#E3E6E8;
         --color-success:#90F677;
         --color-errors:#E63946;
         --color-sun-outline:#E3E3E3;
@@ -46,7 +49,7 @@
 </head>
 
 <body class="w-screen overflow-x-hidden m-0 p-0">
-  <header class="flex justify-between items-center p-6">
+  <header class="flex justify-between items-center p-6 bg-white">
 
     <nav id="right-panel" class="flex">
       <p class="font-[Vazirmatn] text-xl font-semibold ml-8">کوئرا لیست</p>
@@ -59,14 +62,19 @@
     </nav>
     <div id="left-panel" class="flex gap-4">
       <button
-        class="mr-auto bg-primary h-10 rounded-md px-6 py-2 font-[Vazirmatn] text-background-light font-semibold text-base hover:bg-primary-hover-light">ورود
+        class="mr-auto bg-primary h-10 rounded-md px-6 py-2 font-[Vazirmatn] text-background-light font-semibold text-base hover:bg-primary-hover-light hover:cursor-pointer">ورود
         به اپلیکیشن</button>
-      <div class="w-10 h-10 ml-4 rounded-md border border-sun-outline flex hover:bg-slate-100"><img
+      <div class="w-10 h-10 ml-4 rounded-md border border-sun-outline flex hover:bg-slate-100 hover:cursor-pointer"><img
           src="./assets/images/sun-image.svg" alt="sun image for light theme" class="m-auto">
       </div>
     </div>
   </header>
-  <main class="bg-[url(/assets/images/background.svg)] h-[1228px]">
+  <main class="bg-[url(/assets/images/background.svg)] bg-no-repeat">
+    <div id="night-menu" class="absolute top-0">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
     <h2 class="font-[Markazi] font-normal text-5xl italic text-center text-neutral-800 pt-26 z-10">تمرکز رو وارد زندگیت
       کن</h2>
     <img src="./assets/images/star.svg" alt="star" class="absolute top-40 left-10/13 z-7">
@@ -77,18 +85,18 @@
     <h3 class="w-3/5 text-center font-[Vazirmatn] font-normal mx-auto mt-24 text-xl z-5 sticky">زمان در یک روز برای ما
       محدود است، اما مهمترین کار این است که چگونه از آن استفاده می‌کنیم. با اپلیکیشن کوییرا لیست، زمان خود را با هدف و
       برنامه‌ریزی موثر سپری کنید.</h3>
-    <img src="./assets/images/eclipse128.svg" alt="eclispe128"
-      class="absolute top-1/4 left-[-50px] z-3 overflow-hidden">
-    <img src="./assets/images/eclipse129.svg" alt="eclispe129" class="absolute top-1/2 left-2/3 z-2 overflow-hidden">
-    <img src="./assets/images/eclipse132.svg" alt="eclispe132"
-      class="absolute top-[1400px] left-27/32 z-2 overflow-hidden">
-    <img src="./assets/images/eclipse133.svg" alt="eclispe133" class="absolute top-[1680px] left-0 z-2 overflow-hidden">
+    <img src="./assets/images/eclipse128.svg" alt="eclispe128" class="absolute top-1/4 left-[-50px] z-3">
+    <img src="./assets/images/eclipse129.svg" alt="eclispe129" class="absolute top-1/2 left-2/3 z-2">
+    <img src="./assets/images/eclipse130.svg" alt="eclispe130" class="absolute top-[3100px] left-[850px] z-2">
+    <img src="./assets/images/eclipse131.svg" alt="eclispe131" class="absolute top-[2500px] left-[0px] z-2">
+    <img src="./assets/images/eclipse132.svg" alt="eclispe132" class="absolute top-[1400px] left-27/32 z-2">
+    <img src="./assets/images/eclipse133.svg" alt="eclispe133" class="absolute top-[1680px] left-0 z-2">
     <section id="two buttons" class="flex mx-auto my-10 w-80 justify-around gap-2">
       <button
-        class="bg-primary h-10 rounded-md px-6 py-2 font-[Vazirmatn] text-background-light font-semibold text-base hover:bg-primary-hover-light">ورود
+        class="bg-primary h-10 rounded-md px-6 py-2 font-[Vazirmatn] text-background-light font-semibold text-base hover:bg-primary-hover-light hover:cursor-pointer">ورود
         به اپلیکیشن</button>
       <button
-        class="bg-secondary h-10 rounded-md px-10 py-2 font-[Vazirmatn] text-primary font-semibold text-base hover:bg-neutral-200">درباره
+        class="bg-secondary h-10 rounded-md px-10 py-2 font-[Vazirmatn] text-primary font-semibold text-base hover:bg-neutral-200 hover:cursor-pointer">درباره
         ما</button>
     </section>
     <section class="flex flex-col gap-30 mt-20 content-center">
@@ -131,30 +139,180 @@
           </div>
         </div>
       </div>
-      <div class="w-[1120px] mx-auto">
-        <div id="heading-anecdote" class="mb-4">
-          <p class="font-[Vazirmatn] font-normal text-lg mb-2">اپلیکیشن اندروید و iOS</p>
-          <h4 class="font-[Markazi] font-bold text-5xl mb-6 pb-2">دانلود اپلیکیشن</h4>
+      <div class="w-[1120px] mx-auto grid grid-cols-2 grid-rows-3 gap-4">
+        <div id="heading-anecdote" class="row-span-1 w-5/7">
+          <p class="font-[Vazirmatn] font-lg text-lg mb-4">اپلیکیشن اندروید و iOS</p>
+          <h4 class="font-[Markazi] font-bold text-5xl">دانلود اپلیکیشن</h4>
         </div>
-        <div id="anecdotes" class="w-3/7 h-auto">
-          <p id="link" class="font-[Vazirmatn] font-normal text-lg text-justify tracking-wide">کاربران اندروید می‌توانند
+        <div id="images" class="row-span-3">
+          <div class="bg-linear-to-r from-linear-from to-linear-to w-5/12 h-7/12 rounded-3xl absolute p-3">
+            <div id="big-one" class="rounded-3xl relative w-full h-full overflow-hidden shadow-md mx-auto">
+              <img src="./assets/images/image.png" alt="portofolio image"
+                class="rounded-3xl object-cover absolute object-top top-[-48px] left-[-28px] max-w-[562px] max-h-[430px]">
+            </div>
+          </div>
+          <div
+            class="bg-linear-to-r from-linear-from to-linear-to rounded-2xl relative top-[35px] left-[-60px] p-2 w-11/32 h-7/8">
+            <div id="small-one" class="rounded-2xl relative w-full h-full overflow-hidden shadow-md mx-auto">
+              <img src="./assets/images/home.png" alt="little portofolio image"
+                class="rounded-2xl object-cover absolute object-top top-0 left-0 w-[180px] h-[360px]">
+            </div>
+          </div>
+        </div>
+        <div id="anecdotes" class="row-span-2 w-6/8">
+          <p id="link" class="font-[Vazirmatn] font-normal text-base text-justify">کاربران اندروید
+            می‌توانند
             اپلیکیشن
             کوئرالیست را از استورهای معتبر اندروید دانلود نمایند. همچنین کاربران سیستم عامل اپل علاوه بر دانلود
             نرم‌افزار از اپل‌استور می‌توانند از نسخه مبتنی بر وب آن استفاده نمایند.
             <br class="mb-1">همچنین کاربران سیستم عامل اپل علاوه بر دانلود نرم‌افزار از اپل‌استور می‌توانند از نسخه
             مبتنی بر وب آن استفاده نمایند.
           </p>
-          <div class=" my-6 flex">
+          <div class=" my-12 flex">
             <a href="#link" class="inline font-[Vazirmatn] font-bold text-lg text-primary">ورود به اپلیکیشن</a>
             <img src="./assets/images/arrow.svg" alt="blue arrow" class="mx-2">
           </div>
         </div>
-        <div id="images">
-          <div><img src="./assets/images/image.png" alt="portofolio image" class=""></div>
+      </div>
+      <div id="opinions" class="w-[1120px] mx-auto">
+        <div id="headings">
+          <h4 class="font-[Markazi] font-bold text-5xl text-center italic">نظرات کاربران</h4>
+          <p class="font-[Vazirmatn] font-normal text-lg text-center w-3/7 mx-auto mb-14 mt-10">بیش از یک دهه است که
+            کوئرا لیست به مردم در سراسر جهان کمک می‌کند تا سازماندهی شوند و به اهداف خود برسند.</p>
+        </div>
+        <div id="grid"
+          class="grid grid-cols-3 grid-rows-12 gap-6 overflow-hidden w-38/40 mx-auto justify-between p-0 m-0">
+          <div class="rounded-2xl drop-shadow-none bg-white row-span-7 sticky z-10">
+            <div class="p-8 grid grid-cols-3 grid-rows-2 items-center">
+              <img src="./assets/images/ardalan.png" alt="Ardalan Sartippi"
+                class="w-16 h-16 rounded-full object-cover row-span-2">
+              <h5 class="font-bold text-base font-[Vazirmatn] col-span-2">اردلان سرتیپی</h5>
+              <p class="font-normal text-sm font-[Vazirmatn] col-span-2">مهندس نرم افزار دیجی‌کالا</p>
+            </div>
+            <div>
+              <p class="font-light text-base font-[Vazirmatn] text-justify px-8 pb-4">تجربه من با کوئرا
+                لیست زندگی من رو
+                تغییر
+                داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به ما این امکان رو می‌دهد
+                که باهوش‌تر، سریع‌تر و سازمان دهی شده تر زندگی کنیم و هم چینین همه چیز به گونه‌ای ساده تنظیم شده و
+                میتونیم از یکپارچگی اطلاعات و دیتاها لذت ببریم.</p>
+            </div>
+          </div>
+          <div class="rounded-2xl border border-neutral-200 bg-white row-span-5 sticky z-10">
+            <div class="p-8 grid grid-cols-3 grid-rows-2 items-center">
+              <img src="./assets/images/roya.png" alt="Roya Maleki"
+                class="w-16 h-16 rounded-full object-cover row-span-2">
+              <h5 class="font-bold text-base font-[Vazirmatn] col-span-2">رویا ملکی</h5>
+              <p class="font-normal text-sm font-[Vazirmatn] col-span-2">مهندس نرم افزار دیجی‌کالا</p>
+            </div>
+            <div>
+              <p class="font-light text-base font-[Vazirmatn] text-justify px-8 pb-4">تجربه من با کوئرا لیست زندگی من رو
+                تغییر داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به ما این امکان رو
+                می‌دهد که سریع تر باشیم.</p>
+            </div>
+          </div>
+          <div class="rounded-2xl drop-shadow-none bg-white row-span-7 sticky z-10">
+            <div class="p-8 grid grid-cols-3 grid-rows-2 items-center">
+              <img src="./assets/images/roghi.png" alt="Roghi Dooghi"
+                class="w-16 h-16 rounded-full object-cover row-span-2">
+              <h5 class="font-bold text-base font-[Vazirmatn] col-span-2">رقیه دوغی</h5>
+              <p class="font-normal text-sm font-[Vazirmatn] col-span-2">مهندس نرم افزار دیجی‌کالا</p>
+            </div>
+            <div>
+              <p class="font-light text-base font-[Vazirmatn] text-justify px-8 pb-4">تجربه من با کوئرا
+                لیست زندگی من رو
+                تغییر
+                داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به ما این امکان رو می‌دهد
+                که باهوش‌تر، سریع‌تر و سازمان دهی شده تر زندگی کنیم و هم چینین همه چیز به گونه‌ای ساده تنظیم شده و
+                میتونیم از یکپارچگی اطلاعات و دیتاها لذت ببریم.</p>
+            </div>
+          </div>
+          <div class="rounded-2xl drop-shadow-none bg-white row-span-7 sticky z-10">
+            <div class="p-8 grid grid-cols-3 grid-rows-2 items-center">
+              <img src="./assets/images/shamsi.png" alt="Shamsi Zinati"
+                class="w-16 h-16 rounded-full object-cover row-span-2">
+              <h5 class="font-bold text-base font-[Vazirmatn] col-span-2">شمسی زینتی</h5>
+              <p class="font-normal text-sm font-[Vazirmatn] col-span-2">مهندس نرم افزار دیجی‌کالا</p>
+            </div>
+            <div>
+              <p class="font-light text-base font-[Vazirmatn] text-justify px-8 pb-4">تجربه من با کوئرا
+                لیست زندگی من رو
+                تغییر
+                داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به ما این امکان رو می‌دهد
+                که باهوش‌تر، سریع‌تر و سازمان دهی شده تر زندگی کنیم و هم چینین همه چیز به گونه‌ای ساده تنظیم شده و
+                میتونیم از یکپارچگی اطلاعات و دیتاها لذت ببریم.</p>
+            </div>
+          </div>
+          <div class="rounded-2xl border border-neutral-200 bg-white row-span-5 sticky z-10">
+            <div class="p-8 grid grid-cols-3 grid-rows-2 items-center">
+              <img src="./assets/images/salma.png" alt="Sakineh Sazgara"
+                class="w-16 h-16 rounded-full object-cover row-span-2">
+              <h5 class="font-bold text-base font-[Vazirmatn] col-span-2">سکینه سازگارا</h5>
+              <p class="font-normal text-sm font-[Vazirmatn] col-span-2">مهندس نرم افزار دیجی‌کالا</p>
+            </div>
+            <div>
+              <p class="font-light text-base font-[Vazirmatn] text-justify px-8 pb-4">تجربه من با کوئرا
+                لیست زندگی من رو تغییر داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به
+                ما این امکان رو می‌دهد که سریع تر باشیم</p>
+            </div>
+          </div>
+          <div class="rounded-2xl border border-neutral-200 bg-white row-span-5 sticky z-10">
+            <div class="p-8 grid grid-cols-3 grid-rows-2 items-center">
+              <img src="./assets/images/jamore.png" alt="Jalileh Kamali"
+                class="w-16 h-16 rounded-full object-cover row-span-2">
+              <h5 class="font-bold text-base font-[Vazirmatn] col-span-2">جلیله کمالی</h5>
+              <p class="font-normal text-sm font-[Vazirmatn] col-span-2">مهندس نرم افزار دیجی‌کالا</p>
+            </div>
+            <div>
+              <p class="font-light text-base font-[Vazirmatn] text-justify px-8 pb-4">تجربه من با کوئرا لیست زندگی من رو
+                تغییر داده است. من از دنیایی اومدم که همه چیز من در اکسل بود. استفاده از کوئرا لیست به ما این امکان رو
+                می‌دهد که سریع تر باشیم.</p>
+            </div>
+          </div>
+        </div>
+        <div id="buttons" class="w-1/8 mx-auto my-8 flex justify-evenly">
+          <button type="button" class="w-10 h-10 border border-border rounded-md bg-white my-4"><img
+              src="./assets/images/arrow-right.svg" alt="right-arrow" class="w-6 h-6 m-auto"></button>
+          <button type="button" class="w-10 h-10 border border-border rounded-md bg-white my-4"><img
+              src="./assets/images/arrow-left.svg" alt="right-left" class="w-6 h-6 m-auto"></button>
         </div>
       </div>
     </section>
   </main>
+  <footer>
+    <div id="divider" class="w-1/2 mx-auto flex items-center justify-evenly my-16">
+      <img src="./assets/images/vector23.svg" alt="divider-line">
+      <h4 class="font-[Vazirmatn] font-semibold text-xl">کوئرا لیست</h4>
+      <img src="./assets/images/vector23.svg" alt="divider-line">
+    </div>
+    <div id="contacts" class="w-full flex justify-between mx-auto">
+      <div id="right" class="grid grid-rows-3 gap-8 w-1/4 h-2/5 ms-20">
+        <div class="flex h-6 items-center"><img src="./assets/images/fax.svg" alt="fax-icon">
+          <p class="m-4 font[Vazirmatn] font-normal text-sm">فکس: ۴۴۴۴۵۵۶۶ - ۰۲۱</p>
+        </div>
+        <div class="flex h-6 items-center"><img src="./assets/images/phone.svg" alt="phone-icon">
+          <p class="m-4 font[Vazirmatn] font-normal text-sm">تلفن پشتیبانی: ۴۴۴۴۵۵۶۶ - ۰۲۱</p>
+        </div>
+        <div class="flex h-6 items-center"><img src="./assets/images/loc.svg" alt="loc-icon">
+          <p class="m-4 font[Vazirmatn] font-normal text-sm">آدرس دفتر مرکزی: پونک - خیابان اشرفی اصفهانی - خیابان
+            صبحدل- بن بست شب بو</p>
+        </div>
+      </div>
+      <div id="left" class="w-1/4 h-2/5 me-20">
+        <p class="font-[Vazirmatn] font-bold text-base justify-start mb-2">با ما در ارتباط باش</p>
+        <p class="font[Vazirmatn] font-normal text-base">اگه میخوای اولین نفری باشی که از فیچرهای جدید
+          و تخفیفات با خبر بشی.</p>
+        <div class="border border-neutral-400 p-1.5 mt-8 rounded-xl"><input type="email" name="email" id="mail-input"
+            placeholder="ایمیل" class="w-[225px] ms-4"><button
+            class="rounded-lg bg-primary h-9 py-1.5 text-white font-[Vazirmatn] font-extrabold text-sm px-4 hover:bg-primary-hover-light hover:cursor-pointer">ارسال</button>
+        </div>
+      </div>
+    </div>
+    <div class="w-1/3 mx-auto mt-10 mb-4">
+      <p class="font-[Vazirmatn] font-normal text-sm text-neutral-600">تمامی حقوق مادی و معنوی این سایت متعلق به کوئرا
+        لیست می‌باشد.</p>
+    </div>
+  </footer>
 </body>
 
 </html>
